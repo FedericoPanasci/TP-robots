@@ -1,3 +1,5 @@
 public class Robot {
-    public String nombre = " ";
+
+    private int name;
+    public String nombre = " Pepe";
 }
