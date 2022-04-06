@@ -1,4 +1,3 @@
 public class Robot {
-
-    private int name;
+    public String nombre = "Que haces juan carlos?";
 }
